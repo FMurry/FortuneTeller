@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fortune Teller</string>
+    <string name="intro">My Name is <b>Frederic Murry</b>. My Github if <b>FMurry</b>. My student id is <b>007890870</b> Think
+     of a question and click the button below.</string>
+    <string-array name="fortunes">
+        <item>If you refuse to accept anything but the best, you very often get it.</item>
+        <item>Hard work pays off in the future, laziness pays off now.</item>
+        <item>Change can hurt, but it leads a path to something better.</item>
+        <item>Meeting adversity well is the source of your strength.</item>
+        <item>Wealth awaits you very soon.</item>
+        <item>You will travel to many exotic places in your lifetime.</item>
+        <item>Your ability for accomplishment will follow with success.</item>
+        <item>Accept your past without regrets. Handle your present with confidence. Face your future without fear.</item>
+    </string-array>
+</resources>
